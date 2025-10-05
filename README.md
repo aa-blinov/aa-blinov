@@ -1,16 +1,31 @@
-## Hi there 👋
+# Alexander Blinov
 
-<!--
-**aa-blinov/aa-blinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional Summary
 
-Here are some ideas to get you started:
+- **CTO** at [EORA](https://eora.ru)
+- **Senior Back-end Developer** at [Novosibirsk State Technical University](https://www.nstu.ru/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Specialized in building scalable backend systems, infrastructure development, and cutting-edge AI solutions with focus on multi-agent systems and RAG architectures.
+
+---
+
+## Expertise
+
+- **Core Technologies:** Python ecosystem, distributed systems design
+- **Infrastructure:** Cloud architecture, Сontainerization, CI/CD
+- **AI/ML:** Multi-agent systems, Retrieval-Augmented Generation (RAG), LLM integration
+- **Leadership:** Technical strategy, team management, product development
+
+---
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/alexander-blinov-31262b264/)
+
+---
+
+## Interests
+
+Beyond code, I'm passionate about basketball 🏀, artificial intelligence advancements, and contributing to a better technological future.
+
+> Open to collaboration on innovative projects, AI research, and technical consulting opportunities.
