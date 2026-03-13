@@ -2,7 +2,7 @@
 
 ## Professional Summary
 
-- **CTO** at [EORA](https://eora.ru)
+- **Tech Lead** at [EORA](https://eora.ru)
 - **Senior Back-end Developer** at [Novosibirsk State Technical University](https://www.nstu.ru/)
 
 Specialized in building scalable backend systems, infrastructure development, and cutting-edge AI solutions with focus on multi-agent systems and RAG architectures.
