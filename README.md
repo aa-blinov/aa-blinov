@@ -9,7 +9,7 @@ Tech Lead at [EORA](https://eora.ru) and Senior Back-end Developer at [Novosibir
 
 ## Quick start
 
-There is nothing to install and nothing to run. This repository holds the profile page: one Markdown file that GitHub renders at <https://github.com/aa-blinov>, above the list of repositories the account publishes.
+There is nothing to install and nothing to run. This repository holds the profile page, and `README.md` is the file that matters: GitHub renders it at <https://github.com/aa-blinov>, above the list of repositories the account publishes.
 
 To work on the page:
 

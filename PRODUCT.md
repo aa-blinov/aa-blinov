@@ -6,7 +6,7 @@
 
 web
 
-The product is a page. One Markdown file, rendered by GitHub on the owner's profile at <https://github.com/aa-blinov>, above the list of repositories the account publishes. There is no application, no server of its own, no build step and no dependency. The repository description on GitHub says it in one line: "Config files for my GitHub profile."
+The product is a page: the `README.md` of this repository, rendered by GitHub on the owner's profile at <https://github.com/aa-blinov>, above the list of repositories the account publishes. There is no application, no server of its own, no build step and no dependency. The repository description on GitHub says it in one line: "Config files for my GitHub profile."
 
 ## Users
 
@@ -23,7 +23,7 @@ The repository exists to make one sentence true for a visitor: this is who Alexa
 
 Everything in the file serves that sentence. The roles come first because they answer who, the areas of work answer what, and the links at the end answer how.
 
-Success for the visitor: after one screen the roles, the areas and the way to write are known. Success for the owner: the page says the same thing on every visit, and nobody has to edit it for that to be true.
+Success for the visitor: after one screen the roles, the areas of work and the way to reach the owner are known. Success for the owner: the page says the same thing on every visit, and nobody has to edit it for that to be true.
 
 ## Positioning
 
@@ -35,13 +35,13 @@ The judgement behind the wording: a repository named after its owner is a page f
 
 The page is read in a browser, often on a phone, by a reader who arrived from a link. It is read once and quickly, and the reader either has a next step or they do not.
 
-The repository itself changes rarely: three commits on `master`, the last of them on 2026-03-13. The house standard's workflow checks every pull request against the checker in `aa-blinov/golden-repo`, so the page is edited in a pull request and read before it is public.
+The repository itself changes rarely: three commits on `master` before the house standard was adopted, the last of them on 2026-03-13. The house standard's workflow checks every pull request against the checker in `aa-blinov/golden-repo`, so the page is edited in a pull request and read before it is public.
 
 ## Capabilities and Constraints
 
 Confirmed by the repository:
 
-- The profile is one file. On `master` it is the only file in the repository.
+- The profile is one file: `README.md`. Everything else in the tree belongs to the house standard.
 - It names two roles and links their employers: Tech Lead at EORA, Senior Back-end Developer at Novosibirsk State Technical University.
 - It names four areas of expertise and one contact route, LinkedIn.
 - GitHub renders it as the profile page, because the repository is named after its owner.
@@ -57,7 +57,7 @@ Constraints a change has to respect:
 Deliberately not true, and worth knowing before a change:
 
 - The page makes claims about a person that the repository cannot verify. The roles, the employers and the areas of expertise are the owner's statements.
-- There are no usage numbers, and nowhere to put them: the repository holds one file.
+- There are no usage numbers, and nowhere to put them: the page has no analytics on it.
 - The page carries no CV, no photograph, no list of talks and no list of publications.
 
 ## Brand Commitments
@@ -70,8 +70,8 @@ The promise the page keeps: a visitor knows what the owner builds and how to rea
 
 - `README.md` on `master`: the roles, the areas of expertise, the LinkedIn link and the interests.
 - The repository description on GitHub: "Config files for my GitHub profile."
-- Three commits on `master`, the last of them on 2026-03-13, which changed the job title and added the missing final newline.
-- The branch `standard/adopt-the-house-standard-aa-blinov`: the house file set, with the document templates still unwritten.
+- Three commits on `master` before the adoption, the last of them on 2026-03-13, which changed the job title and added the missing final newline.
+- The branch `standard/adopt-the-house-standard-aa-blinov`: the house file set, with the remaining document templates still unwritten.
 
 Absent, and not to be invented: no usage numbers, no testimonials, no awards, no comparison with other engineers, and no claim that the technologies in the expertise list are the ones in use at a given employer.
 
