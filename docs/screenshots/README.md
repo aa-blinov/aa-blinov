@@ -1,20 +1,18 @@
-<!-- house-style: template — fill this file in, then delete this line -->
-
 # Screenshots
 
-Images referenced from the README and the documents.
+This repository carries no images.
 
-<!--
-  Put the files here and reference them from the README:
+The product is one Markdown file rendered by GitHub on a profile page, and
+there is no interface of its own to photograph. A screenshot of the profile
+would be a picture of GitHub's renderer, and it would go stale the moment
+GitHub changed a colour.
 
-  ```markdown
-  ![The main window](docs/screenshots/main.png)
-  ```
+The repository therefore has an empty `docs/screenshots/` directory and no
+image references anywhere in it. The house-style checker verifies that
+every image reference resolves to a file that exists, and with no
+references there is nothing that can break.
 
-  Images are referenced by relative path, so they resolve both on GitHub and
-  in a local checkout. The house-style checker verifies that every image
-  reference points at a file that exists, so a renamed screenshot cannot
-  quietly break the README.
-
-  Delete this file once the project has images of its own.
--->
+If a future version of the page grows a diagram or a screenshot of
+something the owner made, the file goes here and the reference goes into
+`README.md` by relative path, so it resolves on GitHub and in a local
+checkout alike.
