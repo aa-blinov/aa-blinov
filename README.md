@@ -1,31 +1,53 @@
-# Alexander Blinov
+# Profile of Alexander Blinov
 
-## Professional Summary
+Tech Lead at [EORA](https://eora.ru) and Senior Back-end Developer at [Novosibirsk State Technical University](https://www.nstu.ru/). The work is scalable back-end systems and the infrastructure around them, in Python, and the AI applications: multi-agent systems and retrieval-augmented generation.
 
-- **Tech Lead** at [EORA](https://eora.ru)
-- **Senior Back-end Developer** at [Novosibirsk State Technical University](https://www.nstu.ru/)
-
-Specialized in building scalable backend systems, infrastructure development, and cutting-edge AI solutions with focus on multi-agent systems and RAG architectures.
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![House style](https://github.com/aa-blinov/aa-blinov/actions/workflows/house-style.yml/badge.svg)](https://github.com/aa-blinov/aa-blinov/actions/workflows/house-style.yml)
 
 ---
 
-## Expertise
+## Quick start
 
-- **Core Technologies:** Python ecosystem, distributed systems design
-- **Infrastructure:** Cloud architecture, Сontainerization, CI/CD
-- **AI/ML:** Multi-agent systems, Retrieval-Augmented Generation (RAG), LLM integration
-- **Leadership:** Technical strategy, team management, product development
+There is nothing to install and nothing to run. This repository holds the profile page: one Markdown file that GitHub renders at <https://github.com/aa-blinov>, above the list of repositories the account publishes.
 
----
+To work on the page:
+
+```bash
+git clone https://github.com/aa-blinov/aa-blinov.git
+```
+
+## What it does
+
+Four areas of expertise, and the tools and methods in each:
+
+- **Core technologies.** Python ecosystem, distributed systems design.
+- **Infrastructure.** Cloud architecture, containerization, CI/CD.
+- **AI/ML.** Multi-agent systems, retrieval-augmented generation, LLM integration.
+- **Leadership.** Technical strategy, team management, product development.
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/alexander-blinov-31262b264/)
-
----
+- [GitHub](https://github.com/aa-blinov)
 
 ## Interests
 
-Beyond code, I'm passionate about basketball 🏀, artificial intelligence advancements, and contributing to a better technological future.
+Basketball, and where AI research is heading.
 
-> Open to collaboration on innovative projects, AI research, and technical consulting opportunities.
+> Open to collaboration on AI projects, research and technical consulting.
+
+## Development
+
+The page is Markdown and nothing else: no build step, no dependency manifest, no stylesheet, no script. GitHub renders it.
+
+The house style is the only check that applies, and its CI runs on every pull request. The checker lives in the standard's repository, not in this one:
+
+```bash
+git clone https://github.com/aa-blinov/golden-repo.git
+python3 golden-repo/scripts/housecheck.py --strict /path/to/aa-blinov
+```
+
+## License
+
+MIT, © Alexander Blinov. See [LICENSE](LICENSE).
