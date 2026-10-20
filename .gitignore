@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+vendor/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pnpm-store/
+.yarn/
+
+# Build output
+dist/
+build/
+out/
+target/
+*.egg-info/
+.next/
+.nuxt/
+.output/
+
+# Environment — .env.example is committed, .env is not
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Local configuration
+.impeccable/config.local.json
+.claude/settings.local.json
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Test and coverage artefacts
+coverage/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.lcov
+playwright-report/
+test-results/
+
+# Logs and temporary files
+*.log
+tmp/
+.cache/
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
