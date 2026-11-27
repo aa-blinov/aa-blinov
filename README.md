@@ -1,6 +1,6 @@
 # Alexander Blinov
 
-CTO.
+CTO at [EORA.AI](https://eora.ru) and Senior Back-end Developer at [Novosibirsk State Technical University](https://www.nstu.ru/).
 
 I build scalable back-end systems and infrastructure in Python, alongside AI applications focused on multi-agent systems and retrieval-augmented generation.
 
