@@ -2,7 +2,7 @@
 
 CTO at [EORA.AI](https://eora.ru) and Senior Back-end Developer at [Novosibirsk State Technical University](https://www.nstu.ru/).
 
-I build scalable back-end systems and infrastructure in Python, alongside AI applications focused on multi-agent systems and retrieval-augmented generation.
+I design scalable back-end systems and infrastructure in Python, and build applied AI products — from multi-agent workflows and RAG pipelines to local-first developer tools.
 
 ## Focus Areas
 
@@ -19,5 +19,5 @@ Basketball and applied AI research.
 
 ## Connect
 
+- [Blog & Website — blinov.monster](https://blinov.monster)
 - [LinkedIn](https://www.linkedin.com/in/alexander-blinov-31262b264/)
-- [GitHub](https://github.com/aa-blinov)
