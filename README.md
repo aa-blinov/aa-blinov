@@ -2,11 +2,11 @@
 
 CTO at [EORA.AI](https://eora.ru) and Senior Back-end Developer at [Novosibirsk State Technical University](https://www.nstu.ru/).
 
-I design scalable back-end systems and infrastructure in Python, and build applied AI products — from multi-agent workflows and RAG pipelines to local-first developer tools.
+I design scalable back-end systems and distributed infrastructure, and build applied AI products — from multi-agent workflows and RAG pipelines to local-first developer tools.
 
 ## Focus Areas
 
-- **Backend & Distributed Systems** — Python ecosystem, service architecture, reliability.
+- **Backend & Distributed Systems** — Service architecture, APIs, performance, and reliability.
 - **Infrastructure** — Cloud architecture, containerization, CI/CD.
 - **AI / ML** — Multi-agent systems, RAG pipelines, LLM integration.
 - **Engineering Leadership** — Technical strategy, team growth, product delivery.
